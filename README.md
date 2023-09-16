@@ -31,18 +31,12 @@ We are continuously working on improving CSETech to provide an even better exper
 
 Here's a glimpse of CSETech's app interface:
 
-### Home Page
-![Home Page]
-![image](https://github.com/CodeAvi007/CSETech/assets/124431955/7e87b92a-b913-4999-a68e-093a414f0060)
+### Home Page  and Resources Page
+![2](https://github.com/CodeAvi007/CSETech/assets/124431955/a953f0ea-0309-43d2-9654-eac4ebc712cd)
 
-### Resources Page
-![image](https://github.com/CodeAvi007/CSETech/assets/124431955/76011fce-067d-4f98-b467-f0798ef30201)
-
-### About Us Page
-![image](https://github.com/CodeAvi007/CSETech/assets/124431955/c1ee9222-642f-49cf-a5c4-00523ec67670)
-
-### Contact Page
-![image](https://github.com/CodeAvi007/CSETech/assets/124431955/29f75d9f-34ff-4780-a656-be2188709491)
+### About Us Page  and Contact Us Page
+![About Us Page]  ![Contact Us Page]
+![1](https://github.com/CodeAvi007/CSETech/assets/124431955/bf8257f7-0e4b-43cb-8382-f9f2358f7e81)
 
 ## Technical Details
 
