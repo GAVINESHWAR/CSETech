@@ -1,6 +1,6 @@
 # CSETech - Computer Science and Engineering Resources Android Application
 
-![CSETech Logo](https://example.com/csetech-logo.png)
+![CSETech Logo]![image](https://github.com/CodeAvi007/CSETech/assets/124431955/dbbc398f-0eef-4c3a-a955-003899aff2c2)
 
 CSETech is an Android application designed to provide valuable resources for Computer Science and Engineering (CSE) students at JNTUACEA (Jawaharlal Nehru Technological University Anantapur College of Engineering). Our goal is to facilitate easy access to PDFs of all subjects relevant to the CSE curriculum. We are committed to continuous improvement and welcome contributions from the community.
 
@@ -32,16 +32,17 @@ We are continuously working on improving CSETech to provide an even better exper
 Here's a glimpse of CSETech's app interface:
 
 ### Home Page
-![Home Page](https://example.com/csetech-home.png)
+![Home Page]
+![image](https://github.com/CodeAvi007/CSETech/assets/124431955/7e87b92a-b913-4999-a68e-093a414f0060)
 
 ### Resources Page
-![Resources Page](https://example.com/csetech-resources.png)
+![image](https://github.com/CodeAvi007/CSETech/assets/124431955/76011fce-067d-4f98-b467-f0798ef30201)
 
 ### About Us Page
-![About Us Page](https://example.com/csetech-about-us.png)
+![image](https://github.com/CodeAvi007/CSETech/assets/124431955/c1ee9222-642f-49cf-a5c4-00523ec67670)
 
 ### Contact Page
-![Contact Page](https://example.com/csetech-contact.png)
+![image](https://github.com/CodeAvi007/CSETech/assets/124431955/29f75d9f-34ff-4780-a656-be2188709491)
 
 ## Technical Details
 
@@ -57,7 +58,7 @@ CSETech is built using the following technical tools:
 
 CSETech is a collaborative effort, and we would like to acknowledge the contributions of the following individuals:
 
-- [ G AVINESHWAR](https://github.com/yourusername)
+- [G AVINESHWAR](https://github.com/yourusername)
 - [Malik Basha](https://github.com/malikbasha)
 - [Lakshmi Sudha](https://github.com/lakshmisudha)
 
